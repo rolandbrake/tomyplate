@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tomyplate/static/css/main.e1b45eec.chunk.css",
+    "main.js": "/tomyplate/static/js/main.9edf6890.chunk.js",
+    "main.js.map": "/tomyplate/static/js/main.9edf6890.chunk.js.map",
+    "runtime~main.js": "/tomyplate/static/js/runtime~main.e9b03685.js",
+    "runtime~main.js.map": "/tomyplate/static/js/runtime~main.e9b03685.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/tomyplate/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/tomyplate/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/tomyplate/index.html",
+    "precache-manifest.cd02d5c55dddc0edb3a3dd4f819246c8.js": "/tomyplate/precache-manifest.cd02d5c55dddc0edb3a3dd4f819246c8.js",
+    "service-worker.js": "/tomyplate/service-worker.js",
+    "static/css/main.e1b45eec.chunk.css.map": "/tomyplate/static/css/main.e1b45eec.chunk.css.map",
+    "static/media/background.jpg": "/tomyplate/static/media/background.7fc796b9.jpg"
+  }
+}
